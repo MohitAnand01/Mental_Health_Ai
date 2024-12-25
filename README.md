@@ -14,4 +14,4 @@ Step2: Run the Following Commands
 virtualenv package used for virtual environment<br/>
 2)virtualenv your_env_name.\your_env_name\Scripts\activate.ps1<br/>
 3)pip install -r requirements.txt</br>
-4)Write npm start in your terminal
+4)Write npm start in your terminal and application will start in your local environment on Port 4000
