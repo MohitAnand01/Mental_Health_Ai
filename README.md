@@ -5,3 +5,12 @@
  With its focus on accessibility, personalization, and real-time support, the application represents a paradigm shift in the way mental health is monitored and managed.
  The "Smart Mental Health Monitoring Application" has been designed with accessibility as a cornerstone principle, ensuring its usability across diverse populations and settings
 
+#Steps to Run the project 
+
+Step1: Clone the Repository
+Step2:Run the Following Commands
+
+1)pip install virtualenv 
+virtualenv package used for virtual environment
+2)virtualenv your_env_name.\your_env_name\Scripts\activate.ps1
+3)pip install -r requirements.txt
