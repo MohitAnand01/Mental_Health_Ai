@@ -8,9 +8,9 @@
 # Steps to Run the project 
 
 Step1: Clone the Repository <br/><br/>
-Step2:Run the Following Commands
+Step2: Run the Following Commands
 
 1)pip install virtualenv 
 virtualenv package used for virtual environment<br/>
-2)virtualenv your_env_name.\your_env_name\Scripts\activate.ps1
+2)virtualenv your_env_name.\your_env_name\Scripts\activate.ps1<br/>
 3)pip install -r requirements.txt
