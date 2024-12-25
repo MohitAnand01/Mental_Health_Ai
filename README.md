@@ -13,4 +13,5 @@ Step2: Run the Following Commands
 1)pip install virtualenv 
 virtualenv package used for virtual environment<br/>
 2)virtualenv your_env_name.\your_env_name\Scripts\activate.ps1<br/>
-3)pip install -r requirements.txt
+3)pip install -r requirements.txt</br>
+4)Write npm start in your terminal
