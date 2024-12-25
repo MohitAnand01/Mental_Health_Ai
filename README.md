@@ -7,7 +7,7 @@
 
 # Steps to Run the project 
 
-Step1: Clone the Repository \n
+Step1: Clone the Repository <br\>
 Step2:Run the Following Commands
 
 1)pip install virtualenv 
